@@ -69,23 +69,7 @@
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/81111c9d88144ab0968fd8953872a3d8"
 		},
 		{
-			"Name": "ActorSequence",
-			"Enabled": false
-		},
-		{
-			"Name": "AlembicImporter",
-			"Enabled": false
-		},
-		{
-			"Name": "ActorSequence",
-			"Enabled": false
-		},
-		{
 			"Name": "EnvironmentQueryEditor",
-			"Enabled": false
-		},
-		{
-			"Name": "AlembicImporter",
 			"Enabled": false
 		},
 		{
@@ -265,6 +249,14 @@
 		},
 		{
 			"Name": "PlasticSourceControl",
+			"Enabled": false
+		},
+		{
+			"Name": "AlembicImporter",
+			"Enabled": false
+		},
+		{
+			"Name": "ActorSequence",
 			"Enabled": false
 		}
 	]
